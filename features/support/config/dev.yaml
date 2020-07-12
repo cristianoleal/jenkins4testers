@@ -3,8 +3,8 @@ url: "http://nflix-web:8080"
 database:
   host: "pgdb"
   dbname: "nflix"
-  user: "postgres"
-  password: "qaninja"
+  user: "cristianoleal"
+  password: "Crist123$"
 api:
   movies: "http://nflix-api-movies:3002"
 users:
