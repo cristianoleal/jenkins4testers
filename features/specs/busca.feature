@@ -4,7 +4,7 @@
 Funcionalidade: Busca
     Para que eu possa verificar se existe o filme desejado
     Sendo um gestor de catálogo
-    Posso pesquisar items pelo titulo
+    Posso pesquisar itens pelo titulo
     
     Cenario: Busca por titulo
 
